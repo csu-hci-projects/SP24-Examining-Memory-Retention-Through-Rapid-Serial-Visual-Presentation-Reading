@@ -1,1 +1,1 @@
-# SP24-No-Group-Name-2
+# SP24-Examining-Memory-Retention-Through-Rapid-Serial-Visual-Presentation-Reading
