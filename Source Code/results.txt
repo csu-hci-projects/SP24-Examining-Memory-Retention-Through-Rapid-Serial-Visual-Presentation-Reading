@@ -1,0 +1,40 @@
+Participant 1
+RSVP Prompt
+Where did Sarah find the kitten initially?: True
+How old was the kitten?: False
+What did Sarah name the kitten?: True
+Static Prompt
+What was the main character's name?: True
+What were their initial emotions upon meeting?: True
+What did the alien give to him?: True
+
+Participant 2
+RSVP Prompt
+Where did Sarah find the kitten initially?: False
+How old was the kitten?: True
+What did Sarah name the kitten?: True
+Static Prompt
+What was the main character's name?: True
+What were their initial emotions upon meeting?: True
+What did the alien give to him?: True
+
+Participant 3
+RSVP Prompt
+Where did Sarah find the kitten initially?: True
+How old was the kitten?: False
+What did Sarah name the kitten?: False
+Static Prompt
+What was the main character's name?: True
+What were their initial emotions upon meeting?: False
+What did the alien give to him?: True
+
+Participant 4
+RSVP Prompt
+Where did Sarah find the kitten initially?: False
+How old was the kitten?: True
+What did Sarah name the kitten?: True
+Static Prompt
+What was the main character's name?: True
+What were their initial emotions upon meeting?: True
+What did the alien give to him?: True
+
